@@ -1,0 +1,8 @@
+title: Home
+
+pages: false
+
+fields:
+  text:
+    label: Text
+    type:  textarea

@@ -1,0 +1,5 @@
+Title: Classes
+
+----
+
+Text: All classes are subpages of the <mark>classes</mark> page and are fetched by a snippet file called <mark>showcase.php</mark>.

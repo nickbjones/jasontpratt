@@ -1,0 +1,13 @@
+Title: Jason the webpage
+
+----
+
+Author: Nick Jones
+
+----
+
+Description: This is Kirby's Starterkit.
+
+----
+
+Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)

@@ -1,0 +1,9 @@
+Title: Blog
+
+----
+
+Text: This is my badass blog bitches!
+
+----
+
+Perpage: 2
