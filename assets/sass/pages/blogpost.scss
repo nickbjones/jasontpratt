@@ -1,0 +1,10 @@
+.ns-blogpost {
+  .article-header {
+    @include sp-only {
+      margin-bottom: 2rem;
+    }
+    @include pc-only {
+      margin-bottom: 3rem;
+    }
+  }
+}

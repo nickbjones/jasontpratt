@@ -1,0 +1,152 @@
+* {
+  font-family: sans-serif;
+  color: $font-color-primary;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a {
+  color: #44d;
+}
+strong {
+  font-weight: bold;
+}
+h1, h2, h3, h4, h5, h6{
+  font-weight: bold;
+}
+.h1 {
+  display: inline-block;
+  margin: 0;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: $title-color;
+  background-color: $background-color;
+  @include sp-only {
+    padding: 0 0.5rem;
+    font-size: 1.5rem;
+  }
+  @include pc-only {
+    padding: 0 1rem;
+    font-size: 2rem;
+  }
+}
+.h1-wrapper {
+  max-width: $divider-width-lg;
+  text-align: center;
+  border-bottom: $border-style-thick;
+  @include sp-only {
+    height: 14px;
+    margin: $divider-margin-sp auto $divider-margin-pc;
+  }
+  @include pc-only {
+    height: 18px;
+    margin: $divider-margin-pc auto;
+  }
+}
+code {
+  padding: 0 5px;
+  font-family: "Source Sans Pro","Apple LiGothic Medium","Microsoft JhengHei UI","Helvetica Neue",Arial,sans-serif;
+  color: #000;
+  font-weight: 400;
+  letter-spacing: normal;
+  background-color: #fff;
+}
+.anchor {
+  position: relative;
+  top: -1rem;
+}
+.txt-left {
+  display: block;
+  text-align: left;
+}
+.txt-center {
+  display: block;
+  text-align: center;
+}
+.txt-right {
+  display: block;
+  text-align: right;
+}
+.indent {
+  margin-left: 2rem;
+}
+
+// tags: type
+.txt-bold, .txt-bold * {
+  font-weight: bold;
+}
+.txt-italic, .txt-italic * {
+  font-style: italic;
+}
+.txt-underline, .txt-underline * {
+  text-decoration: underline;
+}
+.txt-linethrough, .txt-linethrough * {
+  text-decoration: line-through;
+}
+.txt-highlight, .txt-highlight * {
+  background-color: yellow;
+}
+
+// tags: font sizes
+.txt-xs, .txt-xs * {
+  font-size: 0.6rem;
+}
+.txt-sm, .txt-sm * {
+  font-size: 0.8rem;
+}
+.txt-lg, .txt-lg * {
+  font-size: 1.2rem;
+}
+.txt-xl, .txt-xl * {
+  font-size: 1.4rem;
+}
+
+// tags: colors
+.txt-red, .txt-red * {
+  color: red;
+}
+.txt-blue, .txt-blue * {
+  color: blue;
+}
+.txt-green, .txt-green * {
+  color: green;
+}
+.txt-orange, .txt-orange * {
+  color: orange;
+}
+.txt-brown, .txt-brown * {
+  color: brown;
+}
+.txt-gray, .txt-gray * {
+  color: gray;
+}
+
+// attachment icons
+.attachment {
+  line-height: 2rem;
+  margin-left: -22px;
+  padding-left: 1.7rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-image: url('../images/icons/_blank.png');
+}
+a[href$=avi] { background-image: url('../images/icons/avi.png'); }
+a[href$=bmp] { background-image: url('../images/icons/bmp.png'); }
+a[href$=doc] { background-image: url('../images/icons/doc.png'); }
+a[href$=gif] { background-image: url('../images/icons/gif.png'); }
+a[href$=html] { background-image: url('../images/icons/html.png'); }
+a[href$=jpg] { background-image: url('../images/icons/jpg.png'); }
+a[href$=mp3] { background-image: url('../images/icons/mp3.png'); }
+a[href$=mp4] { background-image: url('../images/icons/mp4.png'); }
+a[href$=mpg] { background-image: url('../images/icons/mpg.png'); }
+a[href$=pdf] { background-image: url('../images/icons/pdf.png'); }
+a[href$=png] { background-image: url('../images/icons/png.png'); }
+a[href$=ppt] { background-image: url('../images/icons/ppt.png'); }
+a[href$=txt] { background-image: url('../images/icons/txt.png'); }
+a[href$=wav] { background-image: url('../images/icons/wav.png'); }
+a[href$=xls] { background-image: url('../images/icons/xls.png'); }
+a[href$=xlsx] { background-image: url('../images/icons/xlsx.png'); }
+a[href$=zip] { background-image: url('../images/icons/zip.png'); }

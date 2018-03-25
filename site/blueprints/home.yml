@@ -2,7 +2,30 @@ title: Home
 
 pages: false
 
+options:
+  delete: false
+
 fields:
-  text:
-    label: Text
-    type:  textarea
+  title:
+    label: Title
+    type: title
+
+  welcome:
+    label: Welcome Message
+    type: text
+
+  intro:
+    label: Intro
+    type: textarea
+
+  officeHours:
+    label: Office Hours
+    type: textarea
+
+  publications:
+    label: Publications
+    type: textarea
+
+  cv:
+    label: CV
+    type: textarea

@@ -1,0 +1,27 @@
+Title: Pie is Better than Cake
+
+----
+
+Date: 2018-02-01
+
+----
+
+Text: 
+
+(image: pievscake1.png)
+
+1. Pie is 3 letters, cake is 4. There is power in concision.
+
+2. Pie can pull off savory. Cake cannot.And no, that Pinterest thing where you make little meatloaves in a muffin tin and call it "meatloaf cupcakes with mashed potato frosting lol" doesn't count. That's weird, and you're better than that. Get yourself an empanada.
+
+3. Crust on pie is buttery and amazing. Crust on cake is gross.
+
+4. Speaking of gross, frosting--it generally sucks.
+
+5. Ice cream on top of cake makes you sugar-dizzy and nauseated. Ice cream on top of pie makes you wanna hug a stranger.
+
+6. Posers can bake a passable cake from a box. Posers can't bake a passable pie. Pie is the "no posers allowed" zone of desserts. Pie keeps it real. Pie is fly; cake is fake.
+
+7. Pie is dynamic. Cake is not nearly as dynamic.You can can have flaky crusts or crumbly crumb crusts. You can have gooey fruit fillings or silky cream fillings or rich, dense custard fillings. You can have bright fresh berry toppings, or fluffy whipped toppings, or salty-sweet crumb toppings, or combinations of all the toppings! The possibilities for exploration and experimentation in pie are inspiring and wonderful. Example: I once made a lavender rice pudding pie topped with berries that legitimately changed my world for the better. I've never had a cake change my world for the better.
+
+(fmt-start: italic)For more reading, check out: (link: blog/pie-is-still-better-than-cake text: Pie is Still Better Than Cake).(fmt-end:)

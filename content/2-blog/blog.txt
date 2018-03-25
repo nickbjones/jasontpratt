@@ -2,8 +2,8 @@ Title: Blog
 
 ----
 
-Text: This is my badass blog bitches!
+Perpage: 4
 
 ----
 
-Perpage: 2
+Intro: ###(fmt-start:center)Coming soon!(fmt-end:)

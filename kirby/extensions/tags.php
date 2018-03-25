@@ -48,7 +48,7 @@ kirbytext::$tags['file'] = array(
     if(empty($text)) $text = str_replace('_', '\_', $file->name());
 
     return html::a($file->url(), html($text), array(
-      'class'  => $tag->attr('class'),
+      'class'  => $tag->attr('class').' attachment',
       'title'  => html($tag->attr('title')),
       'rel'    => $tag->attr('rel'),
       'target' => $tag->target(),
@@ -307,5 +307,69 @@ kirbytext::$tags['gist'] = array(
   ),
   'html' => function($tag) {
     return embed::gist($tag->attr('gist'), $tag->attr('file'));
+  }
+);
+
+
+// custom tags
+/* old format tag */
+kirbytext::$tags['fmt-start'] = array(
+  'attr' => array(
+    'fmt-start'
+  ),
+  'html' => function($tag) {
+    $attrs = explode(' ',$tag->attr('fmt-start'));
+    $classes = '';
+    foreach ($attrs as $attr) {
+      $classes .= ' txt-'.$attr;
+    }
+    $classes = substr($classes, 1);
+    return '<span class="'.$classes.'">';
+  }
+);
+
+kirbytext::$tags['fmt-end'] = array(
+  'attr' => array(
+    'fmt-end'
+  ),
+  'html' => function($tag) {
+    return '</span>';
+  }
+);
+
+/* new format tag */
+kirbytext::$tags['fmt'] = array(
+  'attr' => array(
+    'fmt',
+    'text'
+  ),
+  'html' => function($tag) {
+    $attrs = explode(' ',$tag->attr('fmt'));
+    $classes = '';
+    foreach ($attrs as $attr) {
+      $classes .= ' txt-'.$attr;
+    }
+    $classes = substr($classes, 1);
+    $text = $tag->attr('text');
+    return '<span class="'.$classes.'">'.$text.'</span>';
+  }
+);
+
+kirbytext::$tags['anchor'] = array(
+  'html' => function($tag) {
+    $id = $tag->attr('anchor');
+    return '<div class="anchor" id="'.$id.'"></div>';
+  }
+);
+
+kirbytext::$tags['align'] = array(
+  'attr' => array(
+    'align',
+    'text'
+  ),
+  'html' => function($tag) {
+    $align = $tag->attr('align');
+    $text = $tag->attr('text');
+    return '<p class="txt-'.$align.'">'.$text.'</p>';
   }
 );

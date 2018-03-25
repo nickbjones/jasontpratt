@@ -3,18 +3,20 @@ title: Classes
 files: false
 
 pages:
-  template: classes
+  template: class
 
-options: 
-  template: false  
-  status: false  
-  url: false  
+options:
+  template: classes
+  status: false
+  delete: false
 
 fields:
   title:
     label: Title
-    type:  text
+    type: title
+    required: true
+    width: 3/4
 
-  text:
-    label: Text
-    type:  textarea
+  intro:
+    label: Classes page intro
+    type: textarea

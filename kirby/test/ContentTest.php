@@ -10,7 +10,7 @@ class ContentTest extends KirbyTestCase {
       'author'      => 'Bastian Allgeier GmbH',
       'description' => 'This is a Kirby test file',
       'keywords'    => 'Kirby, CMS, file-based',
-      'copyright'   => '© 2009-(date: Year) (link: http://getkirby.com text: Kirby)'
+      'copyright'   => '© 2009-(date: Year) (link: http://getkirby.com text: HAHA)'
     );
   }
 

@@ -9,15 +9,14 @@
 
 return function($site, $pages, $page) {
 
-  $perpage  = $page->perpage()->int();
-  $articles = $page->children()
+  $perpage   = $page->perpage()->int();
+  $blogposts = $page->children()
                    ->visible()
-                   ->flip()
-                   ->paginate(($perpage >= 1)? $perpage : 5);
+                   ->paginate(($perpage >= 1) ? $perpage : 2);
 
   return [
-    'articles'   => $articles,
-    'pagination' => $articles->pagination()
+    'blogposts'  => $blogposts,
+    'pagination' => $blogposts->pagination()
   ];
 
 };

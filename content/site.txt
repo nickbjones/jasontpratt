@@ -1,13 +1,61 @@
-Title: Jason the webpage
+Title: Jason Pratt Teaching
 
 ----
 
-Author: Nick Jones
+Metadescription: Jason Pratt publications, CV and class information
 
 ----
 
-Description: This is Kirby's Starterkit.
+Metakeywords: Jason Pratt teaching cv publications
+
+----
+
+Email: jasonprattma@gmail.com
+
+----
+
+Twitter: @usugirijay
+
+----
+
+Instagram: afghanembassyfan
+
+----
+
+Facebook: llcooljason
+
+----
+
+Theme: light
+
+----
+
+Accent: red
+
+----
+
+Showimage: 0
+
+----
+
+Showcomments: 0
+
+----
+
+Showsocialmedia: 0
 
 ----
 
 Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+
+----
+
+Phone: 
+
+----
+
+Linkedin: 
+
+----
+
+Youtube: 

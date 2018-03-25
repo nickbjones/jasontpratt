@@ -1,12 +1,50 @@
-Text: 
+Title: Home
 
-## Get started
+----
 
-- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
-- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
-- Follow (twitter: @getkirby) on Twitter for updates
-- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
-- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
-- (link: http://getkirby.com/support text: Get in contact) if you need support.
+Intro: 
 
-**Have fun with Kirby!**
+(image: jason_pratt.jpg)
+(fmt-start:center)僕のウェブサイトへようこそ！
+Welcome to my website!(fmt-end:)
+
+----
+
+Officehours: 
+
+**月**： 9:00 - 17:00
+**火**： 10:00 - 18:00
+**水**： 11:00 - 12:00 & 17:00 - 18:00
+**木**： 8:00 - 15:00
+**金**： 12:00 - 14:00
+
+----
+
+Cv: 
+
+**PROFESSIONAL EXPERIENCES:**
+April 2016-Present Fashion PR, WAG, inc., Tokyo, Ebisu
+- On a daily basis, I manage the press sample leasing ensuring that pick-ups and returns of samples for photo-shoots are properly organized.
+- I monitor media coverage of each product for quick weekly and monthly feedback to the client regarding the Japanese tendency, for example the most popular items in the media and amongst stylists.
+
+----
+
+Publications: 
+
+**A) Publications with peer review process**
+1. Myer B., Xantor, Z., Betton, L. (2011): Water stress in guard cells. Accepted for printing in: Plant survey.
+(publisher's declaration of acceptance enclosed)
+2. Helms, B., Xantor, Z., Myer, B. (2008): Art and Science. In: The Art of Science, Eds. Xu, L., Fox,
+A.B. (Canberra: A + S Press), 23-46.
+
+**B) Submitted publications with peer review proccess**
+1. *Myer, B., Mierscheid, J. M., Buelow, V.: Stone louse in pleistocene. Submitted to: Medical Geology.
+(publisher's acknowledgement of receipt enclosed)
+
+----
+
+Socialmedia: 
+
+----
+
+Welcome: Coming soon!

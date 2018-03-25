@@ -1,5 +1,11 @@
 title: Page
 
+pages: false
+hide: true
+
+options:
+  delete: false
+
 fields:
   title:
     label: Title

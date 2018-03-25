@@ -1,0 +1,207 @@
+Title: Managing Content in Your Website
+
+----
+
+Date: 2018-02-22
+
+----
+
+Text: 
+
+Your website's content is managed by a Content Management System (or CMS) called Kirby. Kirby uses "Markdown", which provides some syntax for inserting contents in your pages, and some formatting options.
+
+The CMS content in managed in an interface called the "panel".
+To access the panel, go to: www.your-website.com/panel and log in.
+
+>- (link: #basic-formats text: Basic formats)
+>>- Line breaks & paragraphs
+>>- Headlines
+>>- Lists
+>>- Other
+
+>- (link: #links text: Links)
+>>- Links with text (link to another website)
+>>- Relative links (link to another page in your website)
+>>- Anchor links (link within a page)
+
+>- (link: #images text: Images)
+>>- Set the size
+>>- Add alternative text
+>>- Add links
+>>- Add a caption
+
+>- (link: #special-formatting text: Special formatting)
+>>- Type
+>>- Size
+>>- Color
+
+****
+
+(anchor: basic-formats)
+## Basic formats
+
+### Line breaks & paragraphs
+
+>My first line
+> My second line
+
+> Another paragraph
+
+### Headlines
+><code># Headline 1 (h1)</code>
+>># Headline 1 (h1)
+
+><code>## Headline 2</code>
+>>## Headline 2
+
+><code>### Headline 3</code>
+>>### Headline 3
+
+><code>#### Headline 4</code>
+>>#### Headline 4
+
+### Lists
+
+>Unordered lists:
+>><code>- Bart</code>
+- Bart
+- Lisa
+- Maggie
+
+>Ordered lists:
+>><code>1. Bart</code>
+1. Bart
+2. Lisa
+3. Maggie
+
+### Other
+
+>Horizontal Rules
+>><code>****</code>
+>>****
+
+>Indentation (Quotes)
+>><code>> Design is how it works.</code>
+>>> Design is how it works.
+
+****
+
+(anchor: links)
+## Links
+
+### Links with text
+><pre><code>&#40;link: http://wikipedia.org text: Wikipedia&#41;</code></pre>
+>(link: http://wikipedia.org text: Wikipedia)
+
+### Relative links
+><pre><code>&#40;link: blog/pie-is-better-than-cake text: Pie is Better Than Cake&#41;</code></pre>
+>(link: blog/pie-is-better-than-cake text: Pie is Better Than Cake)
+
+### Anchor links
+><pre><code>&#40;link: #contact text: Contact&#41;</code></pre>
+>will create a link: (link: #contact text: Contact)
+
+>then add the following tag where you want the anchor to link to:
+><pre><code>&#40;anchor: contact&#41;</code></pre>
+
+****
+
+(anchor: images)
+## Images
+
+Embed images from your page's content folder.
+><pre><code>&#40;image: tanuki.jpg&#41;</code></pre>
+
+Set the width or height of an image:
+><pre><code>&#40;image: tanuki.jpg width: 60 height: 60&#41;</code></pre>
+(image: tanuki.jpg width: 60 height: 60)
+
+Define an alternative text for an image:
+><pre><code>&#40;image: tanuki.jpg alt: Tanuki in the woods&#41;</code></pre>
+(image: tanuki.jpg alt: Tanuki in the woods)
+
+A linked image:
+><pre><code>&#40;image: tanuki.jpg link: http://tanuki.com&#41;</code></pre>
+(image: tanuki.jpg link: http://tanuki.com)
+
+Link to the same picture or to a different picture in the same content folder:
+><pre><code>&#40;image: tanuki.jpg link: tanuki.jpg&#41;</code></pre>
+(image: tanuki.jpg link: tanuki.jpg)
+
+Adding a caption:
+><pre><code>&#40;image: tanuki.jpg caption: Tanuki in the woods&#41;</code></pre>
+(image: tanuki.jpg caption: Tanuki in the woods)
+
+****
+
+(anchor: special-formatting)
+## Special formatting
+
+I have created some special formatting that may be useful:
+- <code>fmt</code>
+- <code>fmt-start</code> and <code>fmt-end</code>
+
+The first tag is the<code>fmt</code> tag (short for "format"):
+
+><code>&#40;fmt: [format] text: [text]&#41;</code>
+
+Here's an example:
+
+><code>I'm not &#40;fmt: red text: your buddy&#41; guy!</code>
+
+This will make the text "your buddy" red:
+
+>>I'm not (fmt: red text: your buddy) guy!
+
+
+Here's another example:
+
+><code>I'm not your &#40;fmt: bold text: buddy&#41; guy!</code>
+
+This will bold the text "buddy":
+
+>>I'm not your (fmt: bold text: buddy) guy!
+
+
+You can combine formatting:
+
+><code>I'm not &#40;fmt: red bold text: your buddy&#41; guy!</code>
+
+>>I'm not (fmt: red bold text: your buddy) guy!
+
+Say you need to wrap formatting around a link like this...
+
+>I'm not (fmt-start: red)your (link: blog/pie-is-better-than-cake text: buddy) guy!(fmt-end:)
+
+Because you cannot nest tags, the following will not work:
+
+><code>I'm not &#40;fmt: red text: your &#40;link: blog/pie-is-better-than-cake text: buddy&#41; guy!&#41;</code>
+
+In order to handle this, use the <code>fmt-start</code> and <code>fmt-end</code> tags, and wrap them around the text that you want formatted:
+
+><code>I'm not &#40;fmt-start: red&#41;your &#40;link: blog/pie-is-better-than-cake text: buddy&#41; guy!&#40;fmt-end:&#41;</code>
+
+When you use the <code>fmt-start</code> tag, remember to always include the <code>fmt-end</code> tag, otherwise the formatting may not end where you expect it to!
+
+<hr>
+
+Here is the formatting available:
+
+- Type: (fmt: bold text: bold) - (fmt: italic text: italic) - (fmt: underline text: underline) - (fmt: linethrough text: linethrough) - (fmt: highlight text: highlight)
+
+>>Usage: <code>&#40;fmt: [bold, italic, underline, linethrough, highlight]&#41;</code>
+
+- Size: (fmt: xs text: extra small) - (fmt: sm text: smaller) - normal - (fmt: lg text: larger) - (fmt: xl text: extra large)
+
+>>Usage: <code>&#40;fmt: [xs, sm, lg, xl]&#41;</code>
+
+- Color: (fmt: red text: red) - (fmt: blue text: blue) - (fmt: green text: green) - (fmt: orange text: orange) - (fmt: brown text: brown) - (fmt: gray text: gray)
+
+>>Usage: <code>&#40;fmt: [red, blue, green, orange, brown, gray]&#41;</code>
+
+
+
+
+****
+
+For more info on markdown and formatting, take a look here: (link: https://getkirby.com/docs/content/text text: Formatting text). Also, feel free to contact me if you have any questions, problems, or requests for new features. Have fun!

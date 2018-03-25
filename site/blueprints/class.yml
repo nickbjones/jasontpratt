@@ -1,21 +1,68 @@
 title: Class
 
+pages: false
+
+options:
+  template: blogpost
+
 files:
   sortable: true
-
-pages: false
 
 fields:
   title:
     label: Title
-    type:  text
-    width: 3/4
+    type:  title
+    width: 2/4
 
   year:
     label: Year
     type:  text
     width: 1/4
 
-  text:
-    label: Text
+  term:
+    label: Term
+    type:  select
+    width: 1/4
+    options:
+      winter: Winter
+      spring: Spring
+      summer: Summer
+      autumn: Autumn
+
+  syllabus:
+    label: Syllabus
     type:  textarea
+
+  schedule:
+    label: Schedule
+    type: structure
+    style: table
+    fields:
+      date:
+        icon: calendar
+        label: Date
+        type: date
+        format: LL
+        placeholder: Select a date…
+        default: today
+        required: true
+      text:
+        label: Text
+        type: textarea
+
+  notes:
+    label: Notes
+    type: structure
+    fields:
+      date:
+        icon: calendar
+        label: Date
+        type: date
+        format: LL
+        placeholder: Select a date…
+        default: today
+        required: true
+      text:
+        label: Text
+        type: textarea
+  

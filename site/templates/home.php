@@ -1,20 +1,24 @@
 <?php snippet('header') ?>
-  <main class="main" role="main">
-    <header class="wrap">
-      <h1>Jason the webpage!</h1>
-      <hr />
-    </header>
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
+  <main class="ns-home" role="main">
+    <div class="h1-wrapper"><h1 class="h1"><?= $page->welcome() ?></h1></div>
+    <div class="">
+      <?= $page->intro()->kirbytext() ?>
     </div>
-
-    <section class="projects-section">
-      <div class="wrap wide">
-        <h2>Latest Projects</h2>
-        <?php snippet('showcase', ['limit' => 3]) ?>
-        <p class="projects-section-more"><a href="<?= page('classes')->url() ?>" class="btn">show all projects &hellip;</a></p>
-      </div>
-    </section>
-
+    <div class="divider"></div>
+    <div class="">
+      <h2>Office Hours</h2>
+      <?= $page->officeHours()->kirbytext() ?>
+    </div>
+    <div class="divider"></div>
+    <div class="">
+      <h2>Publications</h2>
+      <?= $page->publications()->kirbytext() ?>
+    </div>
+    <div class="divider"></div>
+    <div id="cv">
+      <h2>CV</h2>
+      <?= $page->cv()->kirbytext() ?>
+    </div>
+    <div class="divider"></div>
   </main>
 <?php snippet('footer') ?>

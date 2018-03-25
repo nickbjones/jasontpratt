@@ -1,0 +1,18 @@
+// breakpoints
+@mixin sp-only { @media (max-width: 699px) { @content; } }
+@mixin pc-only { @media (min-width: 700px) { @content; } }
+
+// remove
+@mixin font-a { font-family: 'Pacifico', cursive; };
+@mixin font-c { font-family: 'Kaushan Script', cursive; };
+
+// professional
+@mixin font-b { font-family: 'Courgette', cursive; };
+@mixin font-d { font-family: 'Satisfy', cursive; };
+@mixin font-e { font-family: 'Damion', cursive; };
+@mixin font-f { font-family: 'Calligraffitti', cursive; };
+
+// fun
+@mixin font-g { font-family: 'Kalam', cursive; };
+@mixin font-h { font-family: 'Caveat', cursive; };
+@mixin font-i { font-family: 'Nothing You Could Do', cursive; };
