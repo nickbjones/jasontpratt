@@ -316,6 +316,9 @@ hr {
   .pagination-item > svg:hover {
     fill: #111; }
 
+#disqus_thread {
+  margin-top: 4rem; }
+
 .ns-blog .snippets .divider:last-of-type {
   display: none; }
 

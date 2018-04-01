@@ -24,3 +24,10 @@ fields:
   text:
     label: Text
     type: textarea
+
+  disqus:
+    label: Blog comments
+    type: checkbox
+    text: Shown
+    default: 1
+    width: 1/4

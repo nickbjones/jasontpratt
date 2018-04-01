@@ -25,3 +25,7 @@ Text:
 7. Pie is dynamic. Cake is not nearly as dynamic.You can can have flaky crusts or crumbly crumb crusts. You can have gooey fruit fillings or silky cream fillings or rich, dense custard fillings. You can have bright fresh berry toppings, or fluffy whipped toppings, or salty-sweet crumb toppings, or combinations of all the toppings! The possibilities for exploration and experimentation in pie are inspiring and wonderful. Example: I once made a lavender rice pudding pie topped with berries that legitimately changed my world for the better. I've never had a cake change my world for the better.
 
 (fmt-start: italic)For more reading, check out: (link: blog/pie-is-still-better-than-cake text: Pie is Still Better Than Cake).(fmt-end:)
+
+----
+
+Disqus: 1
