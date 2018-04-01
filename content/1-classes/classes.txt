@@ -2,4 +2,8 @@ Title: Classes
 
 ----
 
-Intro: ###(fmt-start:center)Coming soon!(fmt-end:)
+Intro: 
+
+(fmt-start:center)
+Here you can find all of my classes and information about them.
+(fmt-end:)

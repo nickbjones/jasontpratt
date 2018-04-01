@@ -12,8 +12,6 @@ Term: winter
 
 Syllabus: 
 
-Hands-on instruction of basket weaving in an aquatic environment. We will not be using any kind of breathing apparatuses- those are for pussies; we will be learning to hold our breath while we weave, like real men. I do not accept tardiness.
-
 Your grade will be composed of:
 
 - 20% class participation
@@ -24,12 +22,9 @@ Your grade will be composed of:
 - 30% final in-class exam
 - 50% actual test in the water
 - 20% behavior and positive attitude
-- 30% bribes
-
-You think I can't add, bitches? Maybe I'll quiz you on that shit too!
+- 30% bribing the teacher
 
 (image: basket.jpg)
-### **This is a pussy; not tolerated in this class &#x2197;**
 
 ****
 ## Downloads
@@ -43,7 +38,7 @@ Schedule:
 
 - 
   date: 2018-03-14
-  text: 'Go over guideline and expectations. Meet and greet. Do you have what it takes to weave baskets underwater? (short answer: probably not, but if you pay attention in class, maybe you can become a bad ass expert like Jason Pratt.'
+  text: 'Go over guideline and expectations. Meet and greet. Do you have what it takes to weave baskets underwater? (short answer: probably not, but if you pay attention in class, maybe you can become a bad ass basket weaving expert like Jason Pratt.'
 - 
   date: 2018-03-15
   text: >
@@ -64,7 +59,7 @@ Notes:
 - 
   date: 2018-03-14
   text: |
-    **Some notes from class because you missed it you imbeciles.**
+    **Some notes from class if you missed it**
     - We practiced holding our breathes for a really long time without passing out.
     - If you can't swim already, you're going to flunk this class.
 - 
@@ -73,3 +68,7 @@ Notes:
     Today we talked about how to pluck a
     chicken, later we will learn how this is
     relevant to weaving baskets.
+
+----
+
+Intro: Hands-on instruction of basket weaving in an aquatic environment. We will not be using any kind of breathing apparatuses; those are for fakers; we will be learning to hold our breath while we weave, like real men. I do not accept tardiness.

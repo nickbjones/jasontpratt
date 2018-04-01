@@ -4,9 +4,9 @@ Title: Page Not Found
 
 Intro: 
 
-###(align: center text: This page is either no longer available or it never existed to begin with.)
+####(align: center text: This page is either no longer available or it never existed to begin with.)
 (image: 200w_d.gif)
-###(fmt-start: center)Go back (link: / text: home)... or enjoy some (link: https://www.youtube.com/watch?v=lp1rHka_BkA text: puppies popup: yes)(fmt-end:)
+####(fmt-start: center)Go back (link: / text: home)... or enjoy some (link: https://www.youtube.com/watch?v=lp1rHka_BkA text: puppies popup: yes)(fmt-end:)
 
 ----
 

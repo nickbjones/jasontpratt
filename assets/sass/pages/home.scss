@@ -1,2 +1,25 @@
 .ns-home {
+  .welcome-image {
+    text-align: center;
+    & > img {
+      max-height: 150px;
+      max-width: 150px;
+      border-radius: 150px;
+    }
+  }
+  .quicklinks {
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+    .quicklink {
+      font-size: 1.1rem;
+      font-weight: normal;
+      @include sp-only {
+        margin: 0 0.7rem;
+      }
+      @include pc-only {
+        margin: 0 1rem;
+      }
+    }
+  }
 }

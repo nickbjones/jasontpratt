@@ -29,6 +29,10 @@ fields:
       summer: Summer
       autumn: Autumn
 
+  intro:
+    label: Intro
+    type:  textarea
+
   syllabus:
     label: Syllabus
     type:  textarea

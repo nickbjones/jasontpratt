@@ -1,13 +1,14 @@
 * {
   font-family: sans-serif;
   color: #444;
-  font-weight: lighter;
   letter-spacing: 1px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
 a {
-  color: #44d; }
+  color: #999; }
+  a:hover {
+    color: #111; }
 
 strong {
   font-weight: bold; }
@@ -15,7 +16,7 @@ strong {
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold; }
 
-.h1 {
+.pg-title {
   display: inline-block;
   margin: 0;
   font-weight: 400;
@@ -23,24 +24,24 @@ h1, h2, h3, h4, h5, h6 {
   color: #666;
   background-color: #f5f5f5; }
   @media (max-width: 699px) {
-    .h1 {
+    .pg-title {
       padding: 0 0.5rem;
-      font-size: 1.5rem; } }
+      font-size: 1.4rem; } }
   @media (min-width: 700px) {
-    .h1 {
+    .pg-title {
       padding: 0 1rem;
       font-size: 2rem; } }
 
-.h1-wrapper {
+.pg-title-wrapper {
   max-width: 700px;
   text-align: center;
   border-bottom: 2px solid #bbb; }
   @media (max-width: 699px) {
-    .h1-wrapper {
+    .pg-title-wrapper {
       height: 14px;
       margin: 2rem auto 3rem; } }
   @media (min-width: 700px) {
-    .h1-wrapper {
+    .pg-title-wrapper {
       height: 18px;
       margin: 3rem auto; } }
 
@@ -197,14 +198,12 @@ header {
   max-width: 800px;
   margin: 0 auto;
   text-align: center; }
-  @media (max-width: 699px) {
-    header {
-      padding-top: 2rem; } }
   @media (min-width: 700px) {
     header {
       padding-top: 4rem; } }
   header .site-title {
     font-family: 'Satisfy', cursive;
+    font-weight: lighter;
     text-decoration: none;
     color: #444; }
     @media (max-width: 699px) {
@@ -220,7 +219,7 @@ header {
     border-bottom: 1px solid #bbb; }
     @media (max-width: 699px) {
       header .menu {
-        margin-top: 1.5rem; } }
+        margin: 0; } }
     @media (min-width: 700px) {
       header .menu {
         margin-top: 2rem; } }
@@ -232,11 +231,9 @@ header {
       text-decoration: none;
       color: #999; }
       header .menu-item > a:hover {
-        color: #111;
-        font-weight: normal; }
+        color: #111; }
     header .menu-item.is-active > a {
-      color: #111;
-      font-weight: normal; }
+      color: #111; }
 
 footer {
   max-width: 800px;
@@ -300,8 +297,7 @@ hr {
 .snippet-date {
   margin-top: 0.4rem;
   font-size: 0.9rem;
-  color: #999;
-  font-weight: lighter; }
+  color: #999; }
 
 .pagination {
   display: -webkit-box;
@@ -319,6 +315,9 @@ hr {
   fill: #666; }
   .pagination-item > svg:hover {
     fill: #111; }
+
+.ns-blog .snippets .divider:last-of-type {
+  display: none; }
 
 @media (max-width: 699px) {
   .ns-blogpost .article-header {
@@ -340,3 +339,28 @@ hr {
   padding: 0;
   list-style-type: none;
   text-align: center; }
+
+.ns-home .welcome-image {
+  text-align: center; }
+  .ns-home .welcome-image > img {
+    max-height: 150px;
+    max-width: 150px;
+    border-radius: 150px; }
+
+.ns-home .quicklinks {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-top: 1rem; }
+  .ns-home .quicklinks .quicklink {
+    font-size: 1.1rem;
+    font-weight: normal; }
+    @media (max-width: 699px) {
+      .ns-home .quicklinks .quicklink {
+        margin: 0 0.7rem; } }
+    @media (min-width: 700px) {
+      .ns-home .quicklinks .quicklink {
+        margin: 0 1rem; } }

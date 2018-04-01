@@ -15,9 +15,6 @@ fields:
     type:  text
     width: 1/2
 
-  separator:
-    type: line
-
   email:
     label: Email
     type: email
@@ -56,8 +53,23 @@ fields:
   separator:
     type: line
 
-  # showcomments:
-  #   label: Blog comments
-  #   type: checkbox
-  #   text: Show
-  #   width: 1/4
+  info:
+    label: Disable website
+    type: info
+    text: >
+      Need to take the website down for maintenace?
+
+  disabled:
+    label: Disable website?
+    type: toggle
+    width: 2/4
+
+  warning:
+    type: info
+    text: >
+      WARNING: disabling the website will hide all pages. No content will be deleted.
+
+  sorry:
+    label: Offline message
+    type: text
+    width: 3/4

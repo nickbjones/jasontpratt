@@ -2,11 +2,7 @@ Title: Home
 
 ----
 
-Intro: 
-
-(image: jason_pratt.jpg)
-(fmt-start:center)僕のウェブサイトへようこそ！
-Welcome to my website!(fmt-end:)
+Intro: (fmt-start:center)僕のウェブサイトへようこそ!(fmt-end:)
 
 ----
 
@@ -17,15 +13,6 @@ Officehours:
 **水**： 11:00 - 12:00 & 17:00 - 18:00
 **木**： 8:00 - 15:00
 **金**： 12:00 - 14:00
-
-----
-
-Cv: 
-
-**PROFESSIONAL EXPERIENCES:**
-April 2016-Present Fashion PR, WAG, inc., Tokyo, Ebisu
-- On a daily basis, I manage the press sample leasing ensuring that pick-ups and returns of samples for photo-shoots are properly organized.
-- I monitor media coverage of each product for quick weekly and monthly feedback to the client regarding the Japanese tendency, for example the most popular items in the media and amongst stylists.
 
 ----
 
@@ -43,8 +30,13 @@ A.B. (Canberra: A + S Press), 23-46.
 
 ----
 
-Socialmedia: 
+Cv: 
+
+**PROFESSIONAL EXPERIENCES:**
+April 2016-Present Fashion PR, WAG, inc., Tokyo, Ebisu
+- On a daily basis, I manage the press sample leasing ensuring that pick-ups and returns of samples for photo-shoots are properly organized.
+- I monitor media coverage of each product for quick weekly and monthly feedback to the client regarding the Japanese tendency, for example the most popular items in the media and amongst stylists.
 
 ----
 
-Welcome: Coming soon!
+Coverimage: jason_pratt.jpg

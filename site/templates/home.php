@@ -1,24 +1,26 @@
+<?php if ($site->disabled() == 'false'): ?>
+
 <?php snippet('header') ?>
   <main class="ns-home" role="main">
-    <div class="h1-wrapper"><h1 class="h1"><?= $page->welcome() ?></h1></div>
-    <div class="">
-      <?= $page->intro()->kirbytext() ?>
+    <div class="welcome-image"><img src="<?= page()->url().'/content/home/'.$page->coverImage() ?>"></div>
+    <?= $page->intro()->kirbytext() ?>
+    <div class="quicklinks">
+      <a class="quicklink" href="#cv">CV</a>
+      <a class="quicklink" href="#publications">Publications</a>
+      <a class="quicklink" href="#office-hours">Office Hours</a>
     </div>
     <div class="divider"></div>
-    <div class="">
-      <h2>Office Hours</h2>
-      <?= $page->officeHours()->kirbytext() ?>
-    </div>
+    <h2 id="cv">CV</h2>
+    <?= $page->cv()->kirbytext() ?>
     <div class="divider"></div>
-    <div class="">
-      <h2>Publications</h2>
-      <?= $page->publications()->kirbytext() ?>
-    </div>
+    <h2 id="publications">Publications</h2>
+    <?= $page->publications()->kirbytext() ?>
     <div class="divider"></div>
-    <div id="cv">
-      <h2>CV</h2>
-      <?= $page->cv()->kirbytext() ?>
-    </div>
-    <div class="divider"></div>
+    <h2 id="office-hours">Office Hours</h2>
+    <?= $page->officeHours()->kirbytext() ?>
   </main>
 <?php snippet('footer') ?>
+
+<?php else: ?>
+<?php snippet('comingsoon') ?>
+<?php endif ?>

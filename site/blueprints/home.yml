@@ -10,22 +10,22 @@ fields:
     label: Title
     type: title
 
-  welcome:
-    label: Welcome Message
-    type: text
+  coverImage:
+    label: Cover Image
+    type: image
 
   intro:
     label: Intro
     type: textarea
 
-  officeHours:
-    label: Office Hours
+  cv:
+    label: CV
     type: textarea
 
   publications:
     label: Publications
     type: textarea
 
-  cv:
-    label: CV
+  officeHours:
+    label: Office Hours
     type: textarea

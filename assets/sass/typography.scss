@@ -1,13 +1,15 @@
 * {
   font-family: sans-serif;
   color: $font-color-primary;
-  font-weight: lighter;
   letter-spacing: 1px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 a {
-  color: #44d;
+  color: $font-color-secondary;
+  &:hover {
+    color: #111;
+  }
 }
 strong {
   font-weight: bold;
@@ -15,7 +17,7 @@ strong {
 h1, h2, h3, h4, h5, h6{
   font-weight: bold;
 }
-.h1 {
+.pg-title {
   display: inline-block;
   margin: 0;
   font-weight: 400;
@@ -24,14 +26,14 @@ h1, h2, h3, h4, h5, h6{
   background-color: $background-color;
   @include sp-only {
     padding: 0 0.5rem;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
   @include pc-only {
     padding: 0 1rem;
     font-size: 2rem;
   }
 }
-.h1-wrapper {
+.pg-title-wrapper {
   max-width: $divider-width-lg;
   text-align: center;
   border-bottom: $border-style-thick;

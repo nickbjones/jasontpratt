@@ -14,5 +14,14 @@
 <body class="theme-<?= $site->theme() ?>">
   <header class="header" role="banner">
     <h1><a class="site-title" href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a></h1>
-    <?php snippet('menu') ?>
   </header>
+  <main class="ns-comingsoon" role="main">
+    <div class="divider"></div>
+    <p class="txt-center"><?= $site->sorry()->html() ?></p>
+    <div class="divider"></div>
+  </main>
+  <footer class="footer" role="contentinfo">
+    <p class="copyright">© <?= date('Y') ?> | Website built by <a href="http://nickbjones.net">Nick Jones</a></p>
+  </footer>
+</body>
+</html>

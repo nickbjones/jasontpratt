@@ -6,4 +6,8 @@ Perpage: 4
 
 ----
 
-Intro: ###(fmt-start:center)Coming soon!(fmt-end:)
+Intro: 
+
+(fmt-start:center)
+Welcome to the blog! Here I will update you on various aspects of my life or general thoughts about life, the universe or anthing.
+(fmt-end:)

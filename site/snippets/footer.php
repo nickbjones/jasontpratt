@@ -7,6 +7,7 @@
   }
 ?>
   <footer class="footer" role="contentinfo">
+    <div class="divider divider-lg"></div>
     <?php if (!site()->email()->empty()) : ?><p class="email"><a href="<?= site()->email() ?>"><?= site()->email() ?></a></p><?php endif; ?>
     <?php if (!site()->phone()->empty()) : ?><p class="phone"><a href="tel:<?= site()->phone() ?>"><?= site()->phone() ?></a></p><?php endif; ?>
     <?php if (!site()->facebook()->empty()) { widget('facebook','https://www.facebook.com/'.site()->facebook()); } ?>
