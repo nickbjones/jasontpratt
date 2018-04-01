@@ -9,13 +9,16 @@
         <a class="quicklink" href="#office-hours">Office Hours</a>
       </div>
       <div class="divider"></div>
-      <h2 id="cv">CV</h2>
+      <div class="anchor" id="cv"></div>
+      <h2>CV</h2>
       <?= $page->cv()->kirbytext() ?>
       <div class="divider"></div>
-      <h2 id="publications">Publications</h2>
+      <div class="anchor" id="publications"></div>
+      <h2>Publications</h2>
       <?= $page->publications()->kirbytext() ?>
       <div class="divider"></div>
-      <h2 id="office-hours">Office Hours</h2>
+      <div class="anchor" id="office-hours"></div>
+      <h2>Office Hours</h2>
       <?= $page->officeHours()->kirbytext() ?>
     </main>
   <?php snippet('footer') ?>
