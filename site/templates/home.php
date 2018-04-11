@@ -1,7 +1,9 @@
 <?php if ($site->disabled() == 'false'): ?>
   <?php snippet('header') ?>
     <main class="ns-home" role="main">
-      <div class="welcome-image"><img src="<?= page()->url().'/content/home/'.$page->coverImage() ?>"></div>
+      <?php if ($page->coverImage()->isNotEmpty()): ?>
+        <div class="welcome-image"><img src="<?= page()->url().'/content/home/'.$page->coverImage() ?>"></div>
+      <?php endif ?>
       <?= $page->intro()->kirbytext() ?>
       <div class="quicklinks">
         <a class="quicklink" href="#cv">CV</a>

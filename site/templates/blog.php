@@ -42,7 +42,7 @@
             <div class="divider"></div>
           <?php endforeach ?>
         <?php else: ?>
-          <p>This blog does not contain any blogposts yet.</p>
+          <p class="txt-center">Please check back later for new blogs!</p>
         <?php endif ?>
       </div>
       <?php snippet('pagination') ?>

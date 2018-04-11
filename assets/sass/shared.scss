@@ -37,8 +37,8 @@ header {
   .menu {
     display: inline-block;
     padding: 0;
-    border-top: $border-style-thin;
-    border-bottom: $border-style-thin;
+    border-top: $border-style;
+    border-bottom: $border-style;
     @include sp-only {
       margin: 0;
     }
@@ -67,6 +67,9 @@ footer {
   margin: 3rem auto;
   text-align: center;
   font-size: 0.8rem;
+  .copyright {
+    margin-top: 2rem;
+  }
 }
 main {
   max-width: $container-width;
@@ -81,7 +84,7 @@ main {
 hr {
   max-width: $divider-width-sm;
   border-top: none;
-  border-bottom: $border-style-thin;
+  border-bottom: $border-style;
   @include sp-only {
     margin: $divider-margin-sp auto;
   }
@@ -91,11 +94,11 @@ hr {
 }
 .divider-sm {
   max-width: $divider-width-sm;
-  border-bottom: $border-style-thin;
+  border-bottom: $border-style;
 }
 .divider-lg {
   max-width: $divider-width-lg;
-  border-bottom: $border-style-thick;
+  border-bottom: $border-style;
 }
 .email > a {
   font-size: 1.2rem;

@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6{
 .pg-title-wrapper {
   max-width: $divider-width-lg;
   text-align: center;
-  border-bottom: $border-style-thick;
+  border-bottom: $border-style;
   @include sp-only {
     height: 14px;
     margin: $divider-margin-sp auto $divider-margin-pc;

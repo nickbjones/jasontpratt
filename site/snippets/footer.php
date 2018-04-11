@@ -14,8 +14,7 @@
     <?php if (!site()->instagram()->empty()) { widget('instagram','https://www.instagram.com/'.site()->instagram()); } ?>
     <?php if (!site()->twitter()->empty()) { widget('twitter','https://twitter.com/'.site()->twitter()); } ?>
     <?php if (!site()->linkedin()->empty()) { widget('linkedin','https://www.linkedin.com/in/'.site()->linkedin()); } ?>
-    <?php if (!site()->youtube()->empty()) { widget('youtube','https://www.youtube.com/user/'.site()->youtube()); } ?>
-    <div class="divider divider-lg"></div>
+    <?php if (!site()->youtube()->empty()) { widget('youtube','https://www.youtube.com/channel/'.site()->youtube()); } ?>
     <p class="copyright">© <?= date('Y') ?> | Website built by <a href="http://nickbjones.net">Nick Jones</a></p>
   </footer>
 </body>
