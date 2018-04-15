@@ -135,20 +135,20 @@ code {
   background-position: left center;
   background-image: url('../images/icons/_blank.png');
 }
-a[href$=avi] { background-image: url('../images/icons/avi.png'); }
-a[href$=bmp] { background-image: url('../images/icons/bmp.png'); }
-a[href$=doc] { background-image: url('../images/icons/doc.png'); }
-a[href$=gif] { background-image: url('../images/icons/gif.png'); }
-a[href$=html] { background-image: url('../images/icons/html.png'); }
-a[href$=jpg] { background-image: url('../images/icons/jpg.png'); }
-a[href$=mp3] { background-image: url('../images/icons/mp3.png'); }
-a[href$=mp4] { background-image: url('../images/icons/mp4.png'); }
-a[href$=mpg] { background-image: url('../images/icons/mpg.png'); }
-a[href$=pdf] { background-image: url('../images/icons/pdf.png'); }
-a[href$=png] { background-image: url('../images/icons/png.png'); }
-a[href$=ppt] { background-image: url('../images/icons/ppt.png'); }
-a[href$=txt] { background-image: url('../images/icons/txt.png'); }
-a[href$=wav] { background-image: url('../images/icons/wav.png'); }
-a[href$=xls] { background-image: url('../images/icons/xls.png'); }
-a[href$=xlsx] { background-image: url('../images/icons/xlsx.png'); }
-a[href$=zip] { background-image: url('../images/icons/zip.png'); }
+.attachment[href$=avi] { background-image: url('../images/icons/avi.png'); }
+.attachment[href$=bmp] { background-image: url('../images/icons/bmp.png'); }
+.attachment[href$=doc] { background-image: url('../images/icons/doc.png'); }
+.attachment[href$=gif] { background-image: url('../images/icons/gif.png'); }
+.attachment[href$=html] { background-image: url('../images/icons/html.png'); }
+.attachment[href$=jpg] { background-image: url('../images/icons/jpg.png'); }
+.attachment[href$=mp3] { background-image: url('../images/icons/mp3.png'); }
+.attachment[href$=mp4] { background-image: url('../images/icons/mp4.png'); }
+.attachment[href$=mpg] { background-image: url('../images/icons/mpg.png'); }
+.attachment[href$=pdf] { background-image: url('../images/icons/pdf.png'); }
+.attachment[href$=png] { background-image: url('../images/icons/png.png'); }
+.attachment[href$=ppt] { background-image: url('../images/icons/ppt.png'); }
+.attachment[href$=txt] { background-image: url('../images/icons/txt.png'); }
+.attachment[href$=wav] { background-image: url('../images/icons/wav.png'); }
+.attachment[href$=xls] { background-image: url('../images/icons/xls.png'); }
+.attachment[href$=xlsx] { background-image: url('../images/icons/xlsx.png'); }
+.attachment[href$=zip] { background-image: url('../images/icons/zip.png'); }

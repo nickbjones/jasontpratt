@@ -23,6 +23,7 @@
       <h2>Office Hours</h2>
       <?= $page->officeHours()->kirbytext() ?>
     </main>
+  <?php snippet('scripts/quicklink') ?>
   <?php snippet('footer') ?>
 <?php else: ?>
   <?php snippet('comingsoon') ?>

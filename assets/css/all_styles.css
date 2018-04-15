@@ -126,55 +126,55 @@ code {
   background-position: left center;
   background-image: url("../images/icons/_blank.png"); }
 
-a[href$=avi] {
+.attachment[href$=avi] {
   background-image: url("../images/icons/avi.png"); }
 
-a[href$=bmp] {
+.attachment[href$=bmp] {
   background-image: url("../images/icons/bmp.png"); }
 
-a[href$=doc] {
+.attachment[href$=doc] {
   background-image: url("../images/icons/doc.png"); }
 
-a[href$=gif] {
+.attachment[href$=gif] {
   background-image: url("../images/icons/gif.png"); }
 
-a[href$=html] {
+.attachment[href$=html] {
   background-image: url("../images/icons/html.png"); }
 
-a[href$=jpg] {
+.attachment[href$=jpg] {
   background-image: url("../images/icons/jpg.png"); }
 
-a[href$=mp3] {
+.attachment[href$=mp3] {
   background-image: url("../images/icons/mp3.png"); }
 
-a[href$=mp4] {
+.attachment[href$=mp4] {
   background-image: url("../images/icons/mp4.png"); }
 
-a[href$=mpg] {
+.attachment[href$=mpg] {
   background-image: url("../images/icons/mpg.png"); }
 
-a[href$=pdf] {
+.attachment[href$=pdf] {
   background-image: url("../images/icons/pdf.png"); }
 
-a[href$=png] {
+.attachment[href$=png] {
   background-image: url("../images/icons/png.png"); }
 
-a[href$=ppt] {
+.attachment[href$=ppt] {
   background-image: url("../images/icons/ppt.png"); }
 
-a[href$=txt] {
+.attachment[href$=txt] {
   background-image: url("../images/icons/txt.png"); }
 
-a[href$=wav] {
+.attachment[href$=wav] {
   background-image: url("../images/icons/wav.png"); }
 
-a[href$=xls] {
+.attachment[href$=xls] {
   background-image: url("../images/icons/xls.png"); }
 
-a[href$=xlsx] {
+.attachment[href$=xlsx] {
   background-image: url("../images/icons/xlsx.png"); }
 
-a[href$=zip] {
+.attachment[href$=zip] {
   background-image: url("../images/icons/zip.png"); }
 
 figure {
@@ -320,6 +320,31 @@ hr {
 
 #disqus_thread {
   margin-top: 4rem; }
+
+#scroll-to-top {
+  display: none;
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  height: 2rem;
+  width: 2rem;
+  -webkit-box-shadow: 0 0 19px #ccc;
+  box-shadow: 0 0 19px #ccc;
+  border-radius: 2rem;
+  background-color: #fff;
+  cursor: pointer; }
+  #scroll-to-top .icon {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100%; }
 
 .ns-blog .snippets .divider:last-of-type {
   display: none; }
