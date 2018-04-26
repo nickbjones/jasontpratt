@@ -27,13 +27,14 @@
                 <p class="snippet-date"><?= $post->date('F jS, Y') ?></p>
               </div>
               <div class="text">
-                <?php if ($post->text()->empty()): ?>
+                <?php if ($post->intro()->empty()): ?>
                   <p class="txt-center">
                     <a href="<?= $post->url() ?>" class="snippet-more">read...</a>
                   </p>
                 <?php else: ?>
                   <p>
-                    <?= $post->text()->kirbytext()->excerpt(50, 'words') ?>
+                    <?= $post->intro()->kirbytext() ?>
+                    <?php // $post->text()->kirbytext()->excerpt(50, 'words') ?>
                     <a href="<?= $post->url() ?>" class="snippet-more">read more</a>
                   </p>
                 <?php endif ?>
