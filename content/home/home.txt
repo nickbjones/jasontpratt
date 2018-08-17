@@ -2,41 +2,110 @@ Title: Home
 
 ----
 
-Intro: (fmt-start:center)僕のウェブサイトへようこそ!(fmt-end:)
+Intro: (fmt-start:center)Gentleman researcher and teacher(fmt-end:)
 
 ----
 
 Officehours: 
 
-**月**： 9:00 - 17:00
-**火**： 10:00 - 18:00
-**水**： 11:00 - 12:00 & 17:00 - 18:00
-**木**： 8:00 - 15:00
-**金**： 12:00 - 14:00
+**月**： By appointment
+**火**： By appointment
+**木**： By appointment
+**金**： 12:10 - 13:00
 
 ----
 
 Publications: 
 
-**A) Publications with peer review process**
-1. Myer B., Xantor, Z., Betton, L. (2011): Water stress in guard cells. Accepted for printing in: Plant survey.
-(publisher's declaration of acceptance enclosed)
-2. Helms, B., Xantor, Z., Myer, B. (2008): Art and Science. In: The Art of Science, Eds. Xu, L., Fox,
-A.B. (Canberra: A + S Press), 23-46.
+(link: http://gilesig.org/newsletter/issues-101-110/gile-newsletter-106.pdf text: “Global Awareness via Twitter: A Writing Course Project,” Global Issues In Language Education Newsletter 106, JALT Global Issues in Language Education Special Interest Group, April 2018.)
 
-**B) Submitted publications with peer review proccess**
-1. *Myer, B., Mierscheid, J. M., Buelow, V.: Stone louse in pleistocene. Submitted to: Medical Geology.
-(publisher's acknowledgement of receipt enclosed)
+“Motivation for Global Participation? Student Voices,” Co-written with Durand, J. and Birchley, S. INTED2018 Proceedings, 2018.
+
+“Understanding a Global Mindset,” Co-written with Durand, J. & Birchley, S. INTED2017 Proceedings, 2017, pp. 8482-8490.
+
+“Why You Should Consider Assigned Seating and Tips to Implement it”, Kenkyushitsu Dayori 48, Toyo Gakuen University, 2017
+
+「アフガニスタン新政権とSCOの新たな役割の可能性」『ロシア・ユーラシアの経済と社会』(2015)第993号、５月、ユーラシア研究所
+
+「中央アジア系武装派とロシア経済」『ロシア・ユーラシアの経済と社会』、(2016)第1009号、10月、ユーラシア研究所.
+
+“Reducing Language Learner Anxiety in Free Discussion Environments with Warm-Ups,” Co-written with Gayla Ishikawa, 東海大学紀要第3輯, Tokai University International Education Center, 2016.
+
+“The Militarization of Afghan Refugees to Achieve Foreign Policy Aims: Pakistan’s Whos, Hows, and Whys,” Hosei University (MA Thesis), 2013, Japan
+
+“English Bridges 1,” AEON Institute of Language Education, 2008, Japan, ISBN 978-4-87209-522-7
+
+“English Bridges 2,” AEON Institute of Language Education, 2008, Japan, ISBN 978-4-87209-525-8
+
+“English Bridges 1 Workbook,” AEON Institute of Language Education, 2008, Japan, ISBN 978-4-87209-523-4
+
+“English Bridges 2 Workbook,” AEON Institute of Language Education, 2008, Japan, ISBN 978-4-87209-526-5
+
+“English Bridges 1 Teacher’s Guide,” AEON Institute of Language Education, 2008, Japan, ISBN 978-4-87209-524-1
+
+“English Trails 2 Workbook,” AEON Institute of Language Education, 2008, Japan, ISBN 978-4-87209-520-3
+
+“English Wizard Phonics Yellow 1,” AEON Institute of Language Education, 2008, Japan, ISBN 978-4-87209-490-9
+
+“English Wizard Phonics Blue 1,” AEON Institute of Language Education, 2008, Japan, ISBN 978-4-87209-494-7
 
 ----
 
 Cv: 
 
-**PROFESSIONAL EXPERIENCES:**
-April 2016-Present Fashion PR, WAG, inc., Tokyo, Ebisu
-- On a daily basis, I manage the press sample leasing ensuring that pick-ups and returns of samples for photo-shoots are properly organized.
-- I monitor media coverage of each product for quick weekly and monthly feedback to the client regarding the Japanese tendency, for example the most popular items in the media and amongst stylists.
+**CAREER HISTORY**
+
+**Toyo Gakuen University, Kanagawa, Special Lecturer: April 2016-Present**
+-Teach classes of up to 40 students.
+-Lead special school events, such as Afghan Day and Sri Lanka Day, each which had the participation of the embassies and performers, and in which an estimated 250 students attended.
+-Have arranged guest speakers, such as ambassadors, to speak to students and faculty.
+-Assist in school related events, including open campus days and the speech contest.
+-Lead and participate in research projects examining education.
+
+**Tokai University, Kanagawa, Lecturer: September 2014-Present**
+-Teach International Relations to classes of 20 to 40 students.
+-Develop original curriculum.
+-Worked to promote understanding of Afghan culture with the Afghan students at the University. 
+
+**Tamagawa University, Tokyo, Lecturer: September 2015-March 2016**
+-Taught classes of 20 to 30.
+-Developed original curriculum.
+
+**Business Bank Group, Tokyo, Co-Owner: September 2014-March 2016**
+-Identified new business opportunities both in terms of services and potential customers.
+-Created systems related to new business opportunities.
+-Oversaw all Human Resources.
+
+**Embassy of Afghanistan, Tokyo. Public Affairs Officer: April 2008 – September 2014**
+-Designed and orchestrated the embassy’s outreach program, including social media, awareness-creation events, and other speaking engagements.
+-Designed, wrote, and published outreach materials, such as the Web site, pamphlets, DVDs, calendars, a monthly newsletter, and the embassy podcast.
+-Liaised with media to put forth a positive image of Afghanistan and deliver key government and embassy messages.
+-Wrote proposals to the Japanese government and offices of the UN for new projects.
+-Wrote speeches and presentations for such figures as President Karzai, foreign ministers, ambassador, and the royal family. Have also written for Japanese government officials.
+-Created talking points for officials, including the president and foreign ministry staff, for meetings with Japanese officials such as the prime minister and foreign minister, as well as for meetings with the private sector. 
+-Interpreted for high-ranking officials.
+
+**AEON Corporation, Tokyo. Curriculum Developer: January 2007 – April 2008**
+-Worked with as head writer or as a supporting writer and editor to create texts for classroom use. 7 were published. 
+
+**GEOS Language System, Tokyo. Human Resources Manager: November 1999 – Oct 2006**
+November 1999, entered as an English Language instructor
+March 2002, promoted to Human Resources Manager for South Tokyo and Yokohama
+May 2004, promoted to Human Resources Manager for Eastern Japan 
+-Taught English conversation and communication skills to classes of 1 to 12 students.
+-Directed daily and future operations for 500+ employees at 230 locations.
+-Recruited and hired an average of 200 employees a year to meet staffing needs.
+-Provided initial pre-job training for all new hired staff.
+-Designed the training course and feedback system for all skill-improvement and ongoing trainings that followed the pre-job training.
+
+**AFFILIATIONS**
+Ambassador for Peace, WPF
+President, West Tokyo JALT
+Technology Support Officer, JALT National Conference 2018
+AM Liaison, PanSIG (JALT) 2019
+
+(image: 2018-07-30-19.17.59.png)
 
 ----
 
-Coverimage: jason.jpg
+Coverimage: 307962_10151492382561125_1364512613_n.jpg

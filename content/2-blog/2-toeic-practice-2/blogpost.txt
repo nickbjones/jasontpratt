@@ -1,0 +1,158 @@
+Title: TOEIC PRACTICE 2
+
+----
+
+Date: 2018-07-30
+
+----
+
+Intro: これは第二番目のTOEIC Practiceになります。
+
+----
+
+Text: 
+
+There are many different parts of the listening test.
+All parts, however, have some question. Each question has multiple possible answers.
+Selecting the correct answer isn't only about understanding what was said, it is also about understanding what the possible answers mean.
+リスニングテストで言うことをわかるだけではなくて、それぞれの質問と答えもわかったほうがいいですね。
+
+There are multiple ways that they try to trick you.
+In this mini-lesson, we will focus on distractors.
+テストでいくつの方法で騙されるようにします。今回は気晴らしの言葉を書きます。
+
+Distractors often sound similar or the same as another word.
+気晴らしの言葉は関係ある言葉に聞こえるけど、関係ないですね。
+
+Let's look at some examples.
+Please try this exercise. Which word in each series of words does not fit?
+これらの言葉のセットの中にどれの言葉が合わないですか？
+1. Blue        Green        Read        Yellow        Orange
+2. Win         One          Winning      Winner       Wins
+3. Two         Three        For           Five          Six
+4. Loose       Loser         Lost          Beaten        Failed
+
+**Answers**
+> 1) "read". It sounds like "red", but it is not the same word.
+> 2) "one". It sounds like "won", but it is not the same word.
+> 3) "for". It sounds like "four", but it is not the same word.
+> 4) "loose". It sounds like "lose", but it is not the same word. looseはゆるいという意味でね
+
+Maybe it is easy to see the difference, but when you are listening, it might be difficult because many of them have exactly the same sound.
+見たら、分かりやすいかもしれないけど、聴くときにまたく同じ発音のときもありますね。
+
+So, how do you know when you are listening?じゃ、聴くときに、関係ある言葉か気晴らしの言葉か、どうやって区別ができますか？
+
+Let's look at the examples above again.もう一度上の例を考えましょう。
+Red is a color. It is also an adjective - always. If you want to talk about a color, you need to use the adjective form.
+Redは色です。いつも形容詞です。色の話をしたかったら、英語でいつも形容詞を使います。
+Read is a verb - a past-tense verb. 
+Readは動詞です。過去形の動詞です。
+
+A usual English sentence is made like this
+だいたいの英語の文章はこれですね。
+
+subject - verb - object ・ 主語 - 動詞 - 目的語
+(Of course there are other versions, but this is most common).
+OR
+(adjective) subject - (adverb) verb - (adjective) - object ・（形容詞）主語 - （副詞）動詞 - （形容詞） - 目的語
+OR
+subject - be-verb - adjective (for example: I am cold.)   主語 - be 動詞 - 目的語
+
+So, if you hear this sentence
+じゃこの文章で
+*The man read the newspaper.*
+Subject 主語 = the man
+Verb 動詞 = read
+Object 目的語 = the newspaper
+
+And if you hear this sentence
+*The man has a red apple.*
+Subject 主語 = the man
+Verb 動詞  = has
+(Adjective 形容詞) = red
+Object 目的語 = apple
+
+
+How about loose and lose? じゃ、looseとloseは？
+Loose is an adjective 形容詞.
+Lose is a past-tense verb 過去形の動詞.
+
+Imagine this listening.
+じゃ、このリスニングのことを考えましょう
+A man and a woman are talking about a baseball game.
+
+Here is an example question
+1. How was the baseball game.
+A. His team is loose.
+B. His team won.
+C. It was a tie.
+
+If you look at the answers, you can see that A is wrong.
+答えを見たら、Aが間違えているとわかるね。
+Why?  なぜか？
+His team is loose 
+Subject - be-verb ........ after a be-verb is an adjective.
+ 主語 - be 動詞 がありましたので、その後の言葉は絶対 目的語ですね。
+
+Win and lose are verbs.
+でもゲームの関係のwinとloseは形容詞じゃなくて、動詞ですね。だから、この文章にもう決まっています。Winとloseの話にならない。
+So, this is a different word. It sounds the same, but it's not the same word.
+So, you have to then choose between B and C.
+じゃ、答えはBかCですね。
+
+Often conversations will use some meaningless words also to confuse you. For example, the baseball conversation might be like this.
+よく会話で関係ないことばを使います。下のを見てください
+
+Woman: What are you watching?
+Man: A baseball game.
+Woman: How is it?
+Man: OK. I thought the cubs were strong, but they lost by one run.
+今回のoneはwonに聞こえるかもしれないけど、関係ない。
+
+Be careful.
+
+Actually, I find that often if you think that you hear one of the words from the question or answer in the conversation, it is just a distractor.
+よく僕が気づいたのは質問と答えに出る言葉は会話にも出たら、気晴らしの言葉の可能性が高いですね。
+
+This also is good to think about for the question and response part of the test. Not all of them are applicable for our lesson today, but many are.
+Please try to practice with the following video and send me your answers.
+Question and Responseのところにも気晴らしの言葉をよく使いますので、ちょっと練習しましょう。
+このビデオと下に書いている質問をやって見てください。
+ジェイソンに答えを出してください。
+気晴らしの言葉の問題だけではないけど、そのような問題もあります。
+5つだけを書いたけど、それよりしたかったら、もちろんどうぞ。
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3evBVmbwT4?start=206" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+10. Why are you so tired.
+A. The tire needs air.
+B. We have to wear a coat and tie at work.
+C. I didn't sleep well last night.
+
+11. When did you start here?
+A. Where can I get a new printer?
+B. You can use the elevator on the left.
+C. Monday was my first day of work.
+
+12. Is that a new tie you're wearing?
+A. There aren't any more.
+B. I need to change my coat.
+C. It is. I got it as a present.
+
+13. Can we take a break?
+A. I think Bob broke it.
+B. Thanks. I'm full.
+C. Good idea. I'm tired, too.
+
+14. I haven't felt good all day.
+A. Yes. He's very good.
+B. I don't feel it, either.
+C. You should see a doctor.
+
+There are many more - you can practice if you want, but I only wrote the answers for these 5 questions.
+
+----
+
+Disqus: 1

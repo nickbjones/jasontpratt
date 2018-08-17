@@ -9,5 +9,5 @@ Perpage: 4
 Intro: 
 
 (fmt-start:center)
-Welcome to the blog! Here I will update you on various aspects of my life or general thoughts about life, the universe or anthing.
+All writings that are unpublished or unfiltered will be found here at some point. Subject matter is varied.
 (fmt-end:)

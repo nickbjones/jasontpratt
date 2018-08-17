@@ -1,0 +1,92 @@
+[21-Mar-2018 12:16:18 UTC] PHP Warning:  strpos(): Empty needle in /home4/jasontpr/public_html/wp-includes/functions.php on line 4338
+[21-Mar-2018 12:16:19 UTC] PHP Warning:  strpos(): Empty needle in /home4/jasontpr/public_html/wp-includes/functions.php on line 4338
+[21-Mar-2018 12:16:19 UTC] mojo_plugin_activated
+[01-Apr-2018 04:09:26 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:26 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:26 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:28 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:28 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:28 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:29 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:29 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:29 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:31 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:31 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:31 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:32 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:32 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:32 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:33 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:33 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:33 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:33 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:33 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:33 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:34 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:34 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:34 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:35 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:35 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:35 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:09:36 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:36 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/autoload.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:36 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/bootstrap.php on line 7
+[01-Apr-2018 04:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load() in /home4/jasontpr/public_html/kirby/bootstrap.php:10
+Stack trace:
+#0 /home4/jasontpr/public_html/index.php(6): require()
+#1 {main}
+  thrown in /home4/jasontpr/public_html/kirby/bootstrap.php on line 10
+[01-Apr-2018 04:10:10 UTC] PHP Warning:  require_once(/home4/jasontpr/public_html/kirby/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/vendor/autoload.php on line 5
+[01-Apr-2018 04:10:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home4/jasontpr/public_html/kirby/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/vendor/autoload.php on line 5
+[01-Apr-2018 04:10:50 UTC] PHP Warning:  require(/home4/jasontpr/public_html/kirby/vendor/composer/../getkirby/toolkit/bootstrap.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/vendor/composer/autoload_real.php on line 66
+[01-Apr-2018 04:10:50 UTC] PHP Warning:  require(/home4/jasontpr/public_html/kirby/vendor/composer/../getkirby/toolkit/bootstrap.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/vendor/composer/autoload_real.php on line 66
+[01-Apr-2018 04:10:50 UTC] PHP Fatal error:  require(): Failed opening required '/home4/jasontpr/public_html/kirby/vendor/composer/../getkirby/toolkit/bootstrap.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/vendor/composer/autoload_real.php on line 66
+[01-Apr-2018 04:12:40 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/getkirby/toolkit/lib/obj.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/vendor/getkirby/toolkit/bootstrap.php on line 18
+[01-Apr-2018 04:12:40 UTC] PHP Warning:  include(/home4/jasontpr/public_html/kirby/vendor/getkirby/toolkit/lib/obj.php): failed to open stream: No such file or directory in /home4/jasontpr/public_html/kirby/vendor/getkirby/toolkit/bootstrap.php on line 18
+[01-Apr-2018 04:12:40 UTC] PHP Warning:  include(): Failed opening '/home4/jasontpr/public_html/kirby/vendor/getkirby/toolkit/lib/obj.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/jasontpr/public_html/kirby/vendor/getkirby/toolkit/bootstrap.php on line 18
+[01-Apr-2018 04:12:40 UTC] PHP Fatal error:  Class 'Obj' not found in /home4/jasontpr/public_html/kirby/kirby/roots.php on line 7
