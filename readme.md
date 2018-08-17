@@ -1,3 +1,13 @@
+## app build info
+
+Build the app:
+  > gulp start
+
+Build and listen for changes:
+  > gulp build
+
+
+
 # Kirby
 
 Kirby is a file-based CMS.

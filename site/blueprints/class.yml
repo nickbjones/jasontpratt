@@ -54,6 +54,23 @@ fields:
         label: Text
         type: textarea
 
+  grades:
+    label: Grades
+    type: structure
+    style: table
+    fields:
+      item:
+        label: Item
+        type: text
+        required: true
+        width: 3/4
+      weight:
+        label: Weight
+        type: number
+        step: 1
+        required: true
+        width: 1/4
+
   notes:
     label: Notes
     type: structure

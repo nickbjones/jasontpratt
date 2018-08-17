@@ -1,0 +1,94 @@
+Title: Underwater Basket Weaving 101
+
+----
+
+Year: 2018
+
+----
+
+Term: winter
+
+----
+
+Syllabus: 
+
+Your grade will be composed of:
+
+- 20% class participation
+- 15% pop quizzes
+- 20% homework
+- 15% projects
+- 30% final exam
+
+(image: basket.jpg)
+
+****
+## Downloads
+- (file: seating-chart.pdf text: Seating Chart)
+- (file: basket.jpg)
+- (file: not-your-buddy.pdf text: Not your buddy, guy)
+
+----
+
+Schedule: 
+
+- 
+  date: 2018-03-14
+  text: 'Go over guideline and expectations. Meet and greet. Do you have what it takes to weave baskets underwater? (short answer: probably not, but if you pay attention in class, maybe you can become a bad ass basket weaving expert like Jason Pratt.'
+- 
+  date: 2018-03-15
+  text: >
+    Practice holding our breath for long
+    periods of time. Introduced the
+    high-speed-vacuum-cleaner technique.
+- 
+  date: 2018-03-20
+  text: QUIZ
+- 
+  date: 2018-04-28
+  text: Midterm exam
+
+----
+
+Notes: 
+
+- 
+  date: 2018-03-14
+  text: |
+    **Some notes from class if you missed it**
+    - We practiced holding our breathes for a really long time without passing out.
+    - If you can't swim already, you're going to flunk this class.
+- 
+  date: 2018-03-13
+  text: >
+    Today we talked about how to pluck a
+    chicken, later we will learn how this is
+    relevant to weaving baskets.
+
+----
+
+Intro: Hands-on instruction of basket weaving in an aquatic environment. We will not be using any kind of breathing apparatuses; those are for fakers; we will be learning to hold our breath while we weave, like real men. I do not accept tardiness.
+
+----
+
+Disqus: 1
+
+----
+
+Grades: 
+
+- 
+  item: participation
+  weight: "20"
+- 
+  item: quizzes
+  weight: "15"
+- 
+  item: homework
+  weight: "20"
+- 
+  item: projects
+  weight: "25"
+- 
+  item: final exam
+  weight: "20"
