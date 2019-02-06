@@ -371,11 +371,13 @@ hr {
   text-align: center; }
 
 .ns-home .welcome-image {
-  text-align: center; }
+  max-height: 150px;
+  max-width: 150px;
+  border-radius: 150px;
+  margin: 2rem auto;
+  overflow: hidden; }
   .ns-home .welcome-image > img {
-    max-height: 150px;
-    max-width: 150px;
-    border-radius: 150px; }
+    margin: 0; }
 
 .ns-home .quicklinks {
   display: -webkit-box;

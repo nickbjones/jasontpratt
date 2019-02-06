@@ -1,10 +1,10 @@
 ## app build info
 
 Build the app:
-  > gulp start
+  > gulp build
 
 Build and listen for changes:
-  > gulp build
+  > gulp start
 
 
 
