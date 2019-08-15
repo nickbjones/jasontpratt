@@ -1,4 +1,5 @@
 <?php
+
 define('DS', DIRECTORY_SEPARATOR);
 
 // load kirby
@@ -13,4 +14,3 @@ if(file_exists(__DIR__ . DS . 'site.php')) {
 
 // render
 echo $kirby->launch();
-
