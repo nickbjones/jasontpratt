@@ -1,0 +1,150 @@
+Title: 基礎英語3B(N08)
+
+----
+
+Year: 2018
+
+----
+
+Term: autumn
+
+----
+
+Intro: 
+
+Day: Tuesday
+Time: 9:00 - 10:30
+Room number: 4401 (Building 4)
+
+----
+
+Syllabus: 
+
+**【 Textbooks 】**
+1. Tactics for Listening Basic, Third Edition (Oxford University Press)
+2.「TOGAKU英単」（東洋学園大学英語教育開発センター）
+****
+
+
+**【 Evaluation Criteria and Method 】**
+
+A+  100～90		/ A  90～80		 
+B+   79～76           	/ B  75～70          	
+C+   69～66         	/ C  65～60         	
+D+   59～56         	/ D  55～50        
+F    49～0 
+
+Grades are decided based on the following criteria:
+1. Listening test one: up to 20%
+2. Listening test two: up to 20%
+3. Daily tests (10 times): up to 10%
+4. Class participation (being active, attitude): up to 20%
+5. Homework challenges: 10%
+　Please see the list below on how to earn points.
+6. G-TELP test: up to 20%
+
+****
+
+**【 Absences and Late Arrivals 】**
+1. 4+ absences = no credit.
+2. Late policy: 
+   * 15 minutes or more late to class = absent
+   * If you are late to class, I will add the time to your late record.
+   * Each time your late record reaches 15 minutes, you have 1 more absence.
+	- Example: Day 1: Late 6 minutes, Day 2: Late 3 minutes, Day 3: Late 7 
+      minutes. Total = 16 minutes. So, it’s 1 absent and 1 minute.
+   * Train passes = Not accepted
+3. If you have a school-approved absence form, your absence will be forgiven. In issues of difficult sickness or other really unavoidable circumstances, even without a form from the school, the teacher may forgive you, but you must have a note from the doctor, the police, or some other related person. 
+4. Sleeping, using a cell phone (without my permission), or otherwise not participating in class will be counted as an absence.
+****
+
+【 Homework 】
+1. 10% of your grade will come from homework challenges. 
+2. At the bottom of this page, you will keep track of your progress. You will get stamps on this paper as you do the challenges. 
+3. Each stamp is worth 1%. If you get 0 stamps, your final grade can only be up to 90%.
+4. The stamps can come from the list below. You can do these from today until the last class.
+    * 3 stamps: Listen to any English podcast and write a report. Download it heree: (file: podcastspring2018.pdf)
+    * 1 stamp: Watch an English Youtube video and write a report. Download it heree: (file: podcastspring2018.pdf)
+    * 2 stamps: Listen to a sports game in English and write 5 new vocabulary you hear.
+    * 1 stamp: Listen to an English song chosen by Jason. Translate one line of the song to Japanese.
+    * 1 stamp: Do unit homework (Jason will tell you what it is at the end of each unit). But, this will not be enough to get 10 stamps.
+    * ?? stamps: YOUR IDEA! If you have an idea, tell me. If it is nice, we can decide how many stamps to give..
+5. Give your stamp paper to Jason on the last day of class or when it is full. You can download it here:::    (file: stampsheetspring2018.pdf)
+
+----
+
+Schedule: 
+
+- 
+  date: 2019-09-17
+  text: Orientation / new goals
+- 
+  date: 2019-09-24
+  text: Unit 15 Lesson 1
+- 
+  date: 2019-10-01
+  text: Unit 15 Lesson 2
+- 
+  date: 2019-10-08
+  text: Unit 12 Lesson 1
+- 
+  date: 2019-10-15
+  text: Unit 12 Lesson 2
+- 
+  date: 2019-10-29
+  text: Unit 19 Lesson 1
+- 
+  date: 2019-11-05
+  text: '(fmt: red text: Test 1)'
+- 
+  date: 2019-11-12
+  text: Unit 13 Lesson 1
+- 
+  date: 2019-11-19
+  text: Unit 13 Lesson 2
+- 
+  date: 2019-11-26
+  text: Unit 22 Lesson 1
+- 
+  date: 2019-12-03
+  text: Unit 22 Lesson 2
+- 
+  date: 2019-12-10
+  text: '(fmt: blue text: G-TELP TEST)'
+- 
+  date: 2019-12-17
+  text: Unit 23
+- 
+  date: 2020-01-07
+  text: '(fmt: red text: Test 2)'
+
+----
+
+Grades: 
+
+- 
+  item: Listening test 1
+  weight: "20"
+- 
+  item: Listening test 2
+  weight: "20"
+- 
+  item: Daily tests
+  weight: "10"
+- 
+  item: Participation
+  weight: "20"
+- 
+  item: Stamps
+  weight: "10"
+- 
+  item: G-TELP
+  weight: "20"
+
+----
+
+Notes: 
+
+----
+
+Disqus: 1

@@ -2,7 +2,10 @@ Title: Home
 
 ----
 
-Intro: (fmt-start:center)Gentleman researcher and teacher(fmt-end:)
+Intro: 
+
+(fmt-start:center)Gentleman researcher and teacher(fmt-end:)
+(fmt-start:center)and Best of JALT 2018 winner(fmt-end:)
 
 ----
 
@@ -11,25 +14,27 @@ Officehours:
 **月**： By appointment
 **火**： By appointment
 **木**： By appointment
-**金**： 12:10 - 13:00
+**金**： By appointment
 
 ----
 
 Publications: 
 
+“Jottings from Kids in Tokyo,” Pratt (Ed.), Co-written with various, Self-published, 2020, Japan. (file: jottingsfromkidsintokyo.pdf)
+
 (link: http://gilesig.org/newsletter/issues-101-110/gile-newsletter-106.pdf text: “Global Awareness via Twitter: A Writing Course Project,” Global Issues In Language Education Newsletter 106, JALT Global Issues in Language Education Special Interest Group, April 2018.)
 
-“Motivation for Global Participation? Student Voices,” Co-written with Durand, J. and Birchley, S. INTED2018 Proceedings, 2018.
+“Motivation for Global Participation? Student Voices,” Co-written with Durand, J. and Birchley, S. INTED2018 Proceedings, 2018, pp. 4935-4944. ISBN: 978-84-697-9480-7
 
 “Understanding a Global Mindset,” Co-written with Durand, J. & Birchley, S. INTED2017 Proceedings, 2017, pp. 8482-8490.
 
-“Why You Should Consider Assigned Seating and Tips to Implement it”, Kenkyushitsu Dayori 48, Toyo Gakuen University, 2017
+“Why You Should Consider Assigned Seating and Tips to Implement it”, Kenkyushitsu Dayori 48, Toyo Gakuen University, 2017, pp. 65-71.
 
 「アフガニスタン新政権とSCOの新たな役割の可能性」『ロシア・ユーラシアの経済と社会』(2015)第993号、５月、ユーラシア研究所
 
 「中央アジア系武装派とロシア経済」『ロシア・ユーラシアの経済と社会』、(2016)第1009号、10月、ユーラシア研究所.
 
-“Reducing Language Learner Anxiety in Free Discussion Environments with Warm-Ups,” Co-written with Gayla Ishikawa, 東海大学紀要第3輯, Tokai University International Education Center, 2016.
+“Reducing Language Learner Anxiety in Free Discussion Environments with Warm-Ups,” Co-written with Gayla Ishikawa, 東海大学紀要第3輯, Tokai University International Education Center, 2016, pp. 81-84.
 
 “The Militarization of Afghan Refugees to Achieve Foreign Policy Aims: Pakistan’s Whos, Hows, and Whys,” Hosei University (MA Thesis), 2013, Japan
 
@@ -101,8 +106,9 @@ May 2004, promoted to Human Resources Manager for Eastern Japan
 **AFFILIATIONS**
 Ambassador for Peace, WPF
 President, West Tokyo JALT
-Technology Support Officer, JALT National Conference 2018
-AM Liaison, PanSIG (JALT) 2019
+Conference Manager, JALT National Conference 2020
+Technology Support Officer, JALT National Conference 2018, 2019
+AM Liaison, PanSIG (JALT) 2019, 2020
 
 (image: 2018-07-30-19.17.59.png)
 

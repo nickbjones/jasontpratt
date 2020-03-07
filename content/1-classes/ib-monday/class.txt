@@ -1,0 +1,143 @@
+Title: 応用英語IB-Monday
+
+----
+
+Year: 2018
+
+----
+
+Term: autumn
+
+----
+
+Intro: 
+
+**Day:** Monday
+**Time:** 10:40 - 12:10
+**Room number:** 4504 (Building 4)
+
+----
+
+Syllabus: 
+
+**【 Textbook 】**
+STRETCH Book 3 (Oxford University Press) Susan Stempleski
+****
+
+
+**【 Evaluation Criteria and Method 】**
+
+A+  100～90		/ A  90～80		 
+B+   79～76           	/ B  75～70          	
+C+   69～66         	/ C  65～60         	
+D+   59～56         	/ D  55～50 
+F    49～0 
+
+Grades are decided based on the following criteria:
+1. Class participation: attendance, being active, attitude: up to 20%
+2. Tests: Two speaking tests: up to 40%
+3. Vocabulary homework: up to 10%
+4. Group project: up to 20%
+	10% decided by Jason
+	10% decided by partners
+5. Graded readers x 2: up to 10%
+****
+
+**【 Homework  】**
+1. Each unit you have vocabulary homework assigned. For each vocabulary word listed above (and in the vocabulary section in each unit), write the definition in English and an example sentence (it must be a full sentence)
+Ex: travel alone: go somewhere on vacation by yourself
+	⚪︎ “I traveled alone to Kyoto so all of my photos are selfies.”
+	X “travel alone to Kyoto”
+2. You must read 2 graded readers and write book reports for them. Please use the book report form here:::   (file: bookreport2018spring.pdf)   
+3. You have to complete one process writing assignment. Process writing assignments are essays that have more than one draft. You will give me the first draft, then I will check it. After you will make changes using my suggestions. I will check this again. Finally, you will make one final paper. I will teach you how to do this.
+****
+
+**【 Absences and Late Arrivals 】**
+1. 4+ absences = no credit.
+2. Late policy: 
+   15 minutes or more late to class = absent
+   If you are late to class, I will add the time to your late record.
+   Each time your late record reaches 15 minutes, you have 1 more absence.
+	Example: Day 1: Late 6 minutes, Day 2: Late 3 minutes, Day 3: Late 7 
+      minutes. Total = 16 minutes. So, it’s 1 absent and 1 minute.
+   Train passes = Not accepted
+3. If you have a school-approved absence form, your absence will be forgiven. In issues of difficult sickness or other really unavoidable circumstances, even without a form from the school, the teacher may forgive you, but you must have a note from the doctor, the police, or some other related person. 
+4. Sleeping, using a cell phone (without my permission), or otherwise not participating in class will be counted as an absence.
+
+----
+
+Schedule: 
+
+- 
+  date: 2018-09-17
+  text: Orientation / New goals
+- 
+  date: 2018-09-24
+  text: 'Unit 7 Lesson 1:  (fmt: underline text: Vocabulary homework:) go horseback riding, catch up with friends, practice martial arts, build a website, go to concerts, go to flea markets, do gardening, have brunch'
+- 
+  date: 2018-10-01
+  text: 'Unit 8 Lesson 1:  (fmt: underline text: Vocabulary homework:) moustache, wavy hair, bald, beard, scruffy, neat, confident, studious'
+- 
+  date: 2018-10-08
+  text: Unit 8 Lesson 2
+- 
+  date: 2018-10-22
+  text: 'Unit 9 Lesson 1: (fmt: underline text: Vocabulary homework:) get up early, use an alarm, do chores, ride a bike to school, go to bed late, check my messages, catch up on the news, take out the trash'
+- 
+  date: 2018-10-29
+  text: 'Unit 9 Lesson 2: (fmt: underline text: Group Assignment:)  choose groups and projects (Page 1)'
+- 
+  date: 2018-11-05
+  text: '*Speaking Test 1*'
+- 
+  date: 2018-11-12
+  text: 'Unit 10 Lesson 1: (fmt: underline text: Vocabulary homework:)  mystery, science fiction, western, biography, romance, fantasy, historical fiction, children’s literature'
+- 
+  date: 2018-11-19
+  text: 'Unit 10 Lesson 2:  (fmt: underline text: Group Assignment:) choose roles and tell details (Page 2)'
+- 
+  date: 2018-11-26
+  text: 'Unit 11 Lesson 1: (fmt: underline text: Vocabulary homework:)  flood, fire, crime, demonstration, election, sports event, fashion show, exhibition'
+- 
+  date: 2018-12-03
+  text: 'Unit 11 Lesson 2:  (fmt: underline text: Group Assignment:) Show Jason progress on group project'
+- 
+  date: 2018-12-10
+  text: '**TOEIC BRIDGE TEST**'
+- 
+  date: 2018-12-17
+  text: '*TEST 2: Speaking*'
+- 
+  date: 2019-01-07
+  text: '**Group project presentations**'
+
+----
+
+Grades: 
+
+- 
+  item: Participation
+  weight: "20"
+- 
+  item: Speaking test 1
+  weight: "20"
+- 
+  item: Speaking test 2
+  weight: "20"
+- 
+  item: Vocabulary homework
+  weight: "10"
+- 
+  item: Group project
+  weight: "20"
+- 
+  item: Book reports
+  weight: "10"
+
+----
+
+Notes: 
+
+----
+
+Disqus: 1

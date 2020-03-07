@@ -1,0 +1,153 @@
+Title: 基礎英語1B(K07)
+
+----
+
+Year: 2018
+
+----
+
+Term: autumn
+
+----
+
+Intro: 
+
+**Day:**Tuesday
+**Time:** 13:00 - 14:30
+**Room number:** 4401 (Building 4)
+
+----
+
+Syllabus: 
+
+**【 Textbooks 】**
+1. Q: Skills for Success, Reading & Writing 1 (Oxford University Press)
+2. 「TOGAKU英単」（東洋学園大学英語教育開発センター）
+****
+
+
+**【 Evaluation Criteria and Method 】**
+
+A+  100～90		/ A  90～80		 
+B+   79～76           	/ B  75～70          	
+C+   69～66         	/ C  65～60         	
+D+   59～56         	/ D  55～50 
+F    49～0 
+
+Grades are decided based on the following criteria:
+1. Class participation: attendance, being active, attitude: 20%
+2. Homework challenges: 10%
+　　　Please see the list below on how to earn points.
+3. Writing test 1: 25%
+4. Writing test 2: 25%
+	*Process writing people will get 10% for the writing and 20% for each test
+5. G-TELP test (grammar section): 20%
+****
+
+**【 Absences and Late Arrivals 】**
+1. 4+ absences = no credit.
+2. Late policy: 
+    * 15 minutes or more late to class = absent
+    * If you are late to class, I will add the time to your late record.
+    *Each time your late record reaches 15 minutes, you have 1 more absence.
+	-Example: Day 1: Late 6 minutes, Day 2: Late 3 minutes, Day 3: Late 7 minutes. Total = 16 minutes. So, it’s 1 absent and 1 minute.
+    * Train passes = Not accepted
+3. If you have a school-approved absence form, your absence will be forgiven. In issues of difficult sickness or other really unavoidable circumstances, even without a form from the school, the teacher may forgive you, but you must have a note from the doctor, the police, or some other related person. 
+4. Sleeping, using a cell phone (without my permission), or otherwise not participating in class will be counted as an absence.
+****
+
+**【 Homework 】**
+1. 10% of your grade will come from homework challenges. 
+2. At the bottom of this page, you will keep track of your progress. You will get stamps on this paper as you do the challenges. 
+3. Each stamp is worth 1%. If you get 0 stamps, your final grade can only be up to 90%.
+4. The stamps can come from the list below. You can do these from today until the last class.
+    * 1 stamp: Write a 1-page journal about any topic.
+    * 1 stamp: Write in English a tweet (10 likes or more) or a facebook post (10 likes or more). Other social media – ask me first.
+    * 1 stamp: Send me a postcard in English.
+    * 2 stamps: Find bad English on a t-shirt, sign, menu, etc. Send me a photo and say how to fix the English.
+    * 1 stamp; Write an English message in a birthday card and give it to Jason near his birthday (October 13th).
+    * ?? stamps: YOUR IDEA! If you have an idea, tell me. If it is nice, we can decide how many points to give.
+    * Give the stamp paper to Jason on the last day of class or when it is full. You can download it here:::   (file: stampsheetspring2018.pdf)
+
+----
+
+Schedule: 
+
+- 
+  date: 2019-09-17
+  text: Orientation and review
+- 
+  date: 2019-09-24
+  text: 'Unit 8: Summary Paragraph'
+- 
+  date: 2019-10-01
+  text: 'Unit 9: Analysis Paragraph'
+- 
+  date: 2019-10-08
+  text: |
+    Unit 10: Cause and effect paragraph
+    **Writing Project:** tell Jason your idea
+- 
+  date: 2019-10-15
+  text: 'Unit 11: Persuasive Paragraph'
+- 
+  date: 2019-10-29
+  text: |
+    Unit 12: Problem-Solution Paragraph
+    **Writing Project** Give Jason your plan
+- 
+  date: 2019-11-05
+  text: Review lesson
+- 
+  date: 2019-11-12
+  text: '*Test*'
+- 
+  date: 2019-11-19
+  text: |
+    Short Story Writing 1
+    **Writing Project** Show Jason your progress
+- 
+  date: 2019-11-26
+  text: Short Story Writing 2
+- 
+  date: 2019-12-03
+  text: Short Story Writing 3
+- 
+  date: 2019-12-10
+  text: Short Story Writing 4
+- 
+  date: 2019-12-17
+  text: |
+    Short Story Writing 5
+    **Writing project** Give Jason your final product
+- 
+  date: 2020-01-07
+  text: '*Test*'
+
+----
+
+Grades: 
+
+- 
+  item: Participation
+  weight: "20"
+- 
+  item: Homework challenges
+  weight: "10"
+- 
+  item: Writing test 1
+  weight: "25"
+- 
+  item: Writing test 2
+  weight: "25"
+- 
+  item: G-TELP
+  weight: "20"
+
+----
+
+Notes: 
+
+----
+
+Disqus: 1

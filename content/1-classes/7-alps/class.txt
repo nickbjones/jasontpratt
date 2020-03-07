@@ -1,0 +1,126 @@
+Title: ALPS
+
+----
+
+Year: 2019
+
+----
+
+Term: autumn
+
+----
+
+Intro: 
+
+**Day:** Thursday
+**Time:** 14:40 - 16:10
+**Room number:** 4304 (Building 4)
+
+----
+
+Syllabus: 
+
+**Materials Needed**
+* Google account
+* Notebook / Folder for ALPS only
+****
+
+**Evaluation**
+* Presentations - 60%
+* Class participation - 20%
+* Homework - 10%
+* Can Do - 10%
+****
+
+**Late / Attendance Policy**
+* Class starts on time.
+* If you arrive 1-9 minutes after the bell, you are late.
+* Late 3 times = 1 ABSENCE.
+* If you are 10 or more minutes late, you are absent.
+* Absent 5 times or more = OUT.
+* No train slips please. You should be at school BEFORE class starts. Take an earlier train if your train line is often running late.
+* If you are sleeping in class, you will be marked absent for that day.
+****
+
+**Homework**
+* When: Every week. Please give the paper to Manna or Jason. (Don’t write it during class or you will get 0 points.)
+* What:  1-page (A4) reaction to class (Jason’s or Manna’s or both). 
+* Topic: The topic is free. 
+		- For example, you can write:
+		- “What I learned this week” OR
+		- “What was fun this week” OR
+		- “What was difficult this week”
+		- Etc.
+
+*Example *
+*(your English doesn't have to be this perfect! Just write what you are thinking or what's in your heart)
+
+Today we studied how to make stop motion videos. 
+When I was in high school, it was my dream to be a famous Youtuber, so I was really interested in learning more about making videos. I was happy to learn in Jason's class about how to make beautiful shots using good lighting and how to take the best kinds of photos. I wanted to be a Youtuber again! Actually, I wanted to do live videos, not stop motion, but this information could help me to make my live videos.
+I also learned from Manna about how to tell a good story in a video. I thought that my favorite YouTubers were just making crazy videos and not planning. Now, I understand that my favorite videos are telling a kind of story - even if it seems like there is no story.
+So now I am ready to consider making my own great videos.
+
+Actually, I think Youtube is great for learning. So many interesting videos are made in English, so I get motivation to improve my English and I learn from the videos. Also, people from all over the world are making Youtube videos, so I can understand other cultures and ways of thinking.
+
+I am looking forward to next class.
+
+Ken Nikuman
+
+----
+
+Schedule: 
+
+- 
+  date: 2019-09-19
+  text: Class Newsletter 1
+- 
+  date: 2019-09-26
+  text: Class Newsletter 2
+- 
+  date: 2019-10-03
+  text: Class Newsletter 3
+- 
+  date: 2019-10-10
+  text: Class Newsletter 4
+- 
+  date: 2019-10-17
+  text: '**Class Newsletter  - PRESENTATION!**'
+- 
+  date: 2019-10-24
+  text: Persuasive Essay 1
+- 
+  date: 2019-10-31
+  text: Persuasive Essay 2
+- 
+  date: 2019-11-07
+  text: Persuasive Essay 3
+- 
+  date: 2019-11-14
+  text: 'Persuasive Essay  4'
+- 
+  date: 2019-11-21
+  text: '**Persuasive Essay  - PRESENTATION!**'
+- 
+  date: 2019-11-28
+  text: Poster Presentation 1
+- 
+  date: 2019-12-05
+  text: Poster Presentation 2
+- 
+  date: 2019-12-12
+  text: Poster Presentation 3
+- 
+  date: 2020-01-09
+  text: '**Poster Presentation  - PRESENTATION!**'
+
+----
+
+Notes: 
+
+----
+
+Disqus: 1
+
+----
+
+Grades: 
