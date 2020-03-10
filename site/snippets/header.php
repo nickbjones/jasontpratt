@@ -11,6 +11,7 @@
   <link href="https://fonts.googleapis.com/css?family=Pacifico|Calligraffitti|Caveat|Courgette|Damion|Kalam|Kaushan+Script|Nothing+You+Could+Do|Satisfy" rel="stylesheet">
   <?= css('assets/css/all_styles.css') ?>
   <script type="text/javascript" src="<?= site()->url() ?>/assets/js/jquery-2.1.1.min.js"></script>
+  <?php snippet('ga') ?>
 </head>
 <body class="theme-<?= $site->theme() ?>">
   <header class="header" role="banner">
