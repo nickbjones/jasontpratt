@@ -4,71 +4,57 @@ fields:
   title:
     label: Title
     type:  text
-
   metaDescription:
     label: Meta description
     type:  text
     width: 1/2
-
   metaKeywords:
     label: Meta keywords
     type:  text
     width: 1/2
-
   email:
     label: Email
     type: email
     width: 1/2
-
   phone:
     label: Phone
     type: text
     width: 1/2
-
   Facebook:
     label: Facebook
     type:  text
     width: 1/5
-
   Instagram:
     label: Instagram
     type:  text
     width: 1/5
-
   Twitter:
     label: Twitter
     type:  text
     width: 1/5
-
   LinkedIn:
     label: LinkedIn
     type:  text
     width: 1/5
-
   YouTube:
     label: YouTube
     type:  text
     width: 1/5
-
   separator:
     type: line
-
   info:
     label: Disable website
     type: info
     text: >
       Need to take the website down for maintenace?
-
   disabled:
     label: Disable website?
     type: toggle
     width: 2/4
-
   warning:
     type: info
     text: >
       WARNING: disabling the website will hide all pages. No content will be deleted.
-
   sorry:
     label: Offline message
     type: text
