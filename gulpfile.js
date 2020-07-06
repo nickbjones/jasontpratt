@@ -26,7 +26,7 @@ var rollupCSS = function() {
 gulp.task('build', function() {
   rollupCSS();
 });
-gulp.task('start', function() {
+gulp.task('watch', function() {
   gulp.start('build');
   gulp.watch(cssFiles, ['build']);
 });
