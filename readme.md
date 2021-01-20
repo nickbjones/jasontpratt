@@ -1,9 +1,11 @@
 ## app build info
 
-Build the app:
+  > cd /Applications/MAMP/htdocs/jasontpratt.org
+
+  > nvm use 6
+
   > gulp build
 
-Build and listen for changes:
   > gulp start
 
 

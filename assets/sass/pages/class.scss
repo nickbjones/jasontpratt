@@ -7,4 +7,43 @@
     margin-bottom: -1rem;
     text-align: center;
   }
+  .grade-calulator {
+    .grades-table {
+      @include sp-only {
+        font-size: 0.8em;
+      }
+      @include pc-only {
+        margin: 0 2rem;
+      }
+      .txt-left,
+      .txt-center {
+        display: table-cell;
+      }
+      th {
+        &:first-of-type {
+          padding-left: 0;
+        }
+        &:last-of-type {
+          padding-right: 0;
+        }
+        @include sp-only {
+          padding: 0 0.5rem 0.5rem 0.5rem;
+        }
+        @include pc-only {
+          padding: 0 1rem 0.5rem 1rem;
+        }
+      }
+      .grade-input {
+        font-size: 1rem;
+      }
+    }
+    .final-grade {
+      @include sp-only {
+        margin-left: 1rem;
+      }
+      @include pc-only {
+        margin-left: 4rem;
+      }
+    }
+  }
 }
